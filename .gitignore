@@ -1,7 +1,11 @@
 
-target/*
-
+# Intellij
 *.iml
-.idea/*
+.idea
 
-*.lock
+# Maven
+target
+
+# Gradle
+build
+.gradle
